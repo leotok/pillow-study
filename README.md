@@ -1,2 +1,2 @@
-# pillow-study
-Python script for image manipulation
+# Pillow study
+Python scripts for image manipulation.
